@@ -9,9 +9,11 @@ Throughout this workshop, you will engage in three comprehensive chapters, each 
 1. **Design and Train a Neural Network**: Learn how to create a feedforward neural network and integrate it into a Simulink simulation.
 
 ![Neural Network](README_media/image_1.png)
+
 2. **Integrate TensorFlow Models**: Discover how to import a model from TensorFlow and seamlessly integrate it into Simulink.
 
 ![Neural Network](README_media/image_2.png)
+
 3. **Model Compression and Code Generation**: Compress an LSTM model using projection, generate C/C++ code from Simulink with Embedded Coder, and profile its performance.
 
 ![Neural Network](README_media/image_3.png)
